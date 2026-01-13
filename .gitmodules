@@ -1,0 +1,9 @@
+[submodule "projects/hello-modern-delphi"]
+	path = projects/hello-modern-delphi
+	url = https://github.com/oscarbvf/hello-modern-delphi
+[submodule "projects/server-horse"]
+	path = projects/server-horse
+	url = https://github.com/oscarbvf/server-horse
+[submodule "projects/client-vcl"]
+	path = projects/client-vcl
+	url = https://github.com/oscarbvf/client-vcl
