@@ -7,3 +7,6 @@
 [submodule "projects/client-vcl"]
 	path = projects/client-vcl
 	url = https://github.com/oscarbvf/client-vcl
+[submodule "projects/server-horse-tests"]
+	path = projects/server-horse-tests
+	url = https://github.com/oscarbvf/server-horse-tests.git
